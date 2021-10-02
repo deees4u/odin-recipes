@@ -1,4 +1,4 @@
-The Odin Project: Recipes &b
+The Odin Project: Recipes
 
-This project is to create a website that contains some Chinese homestyle dishes recipes &b
-That I would make it myself. I may be adding more in the future :)
+This project is to create a website that contains some Chinese homestyle dishes recipes\
+that I would make it myself. I may be adding more in the future :)
